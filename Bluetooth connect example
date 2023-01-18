@@ -1,0 +1,9 @@
+from AltinoLite import *
+
+bt()
+
+Sound(37)
+delay(1000)
+Sound(0)
+
+Close()
