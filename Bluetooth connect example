@@ -1,9 +1,12 @@
 from AltinoLite import *
 
-bt()
+Open() 
+
+//Open 함수 - def Open(portName=port)
 
 Sound(37)
 delay(1000)
 Sound(0)
 
 Close()
+//Close 함수 - def Close()
