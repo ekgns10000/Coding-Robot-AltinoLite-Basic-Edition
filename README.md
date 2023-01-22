@@ -1,1 +1,1 @@
-# 코딩하는 알티노 라이트
+# Coding Robot AltinoLite Basic Edition
