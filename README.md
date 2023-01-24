@@ -1,3 +1,3 @@
 # Coding Robot AltinoLite Basic Edition
-- Quality,not Quantity
+- Quality,not Quantity;
 Section 1 ~ 9
